@@ -1,5 +1,5 @@
  - Hi, I am Petar
- - I am developer from Serbia
- - Python , C# & Unity
+ - Dev from Serbia
+ - Python, C#, Unity, JS & C
 
 
